@@ -22,4 +22,4 @@
 - `Assignment_2.pdf`: Original assignment instructions.
 
 ## Source
-The assignment is the Wednesday exercise, *Actor-Critic Algorithms in Level-Based Foraging*, from [marl-book-exercises](https://github.com/marl-book/marl-book-exercises) — designed for the [Barcelona Summer School 2024 on Multi-Agent Reinforcement Learning](https://iiia.csic.es/en-us/marl-course/) and based on the textbook [*Multi-Agent Reinforcement Learning: Foundations and Modern Approaches*](https://marl-book.com/). Training uses the book's [codebase](https://github.com/marl-book/codebase).
+The assignment is the Wednesday exercise, *Actor-Critic Algorithms in Level-Based Foraging*, from [marl-book-exercises](https://github.com/marl-book/marl-book-exercises) — designed for the Barcelona Summer School 2024 on Multi-Agent Reinforcement Learning and based on the textbook *Multi-Agent Reinforcement Learning: Foundations and Modern Approaches*. Training uses the book's codebase.
